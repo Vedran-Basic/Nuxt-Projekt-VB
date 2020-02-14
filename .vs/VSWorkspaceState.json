@@ -3,10 +3,11 @@
     "",
     "\\assets",
     "\\components",
+    "\\layouts",
     "\\pages",
     "\\static",
     "\\store"
   ],
-  "SelectedNode": "\\layouts",
+  "SelectedNode": "\\layouts\\start.vue",
   "PreviewInSolutionExplorer": false
 }
